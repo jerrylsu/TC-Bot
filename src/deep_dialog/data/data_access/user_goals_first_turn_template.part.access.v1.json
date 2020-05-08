@@ -1,0 +1,30 @@
+[
+  {
+    "request_slots": {},
+    "diaact": "inform",
+    "inform_slots": {
+      "is_staff": "True",
+      "self_name": "杰瑞",
+      "digits_key": "123456"
+    }
+  },
+  {
+    "request_slots": {},
+    "diaact": "inform",
+    "inform_slots": {
+      "is_staff": "False",
+      "is_reserve_visitor": "True",
+      "self_name": "杰瑞",
+      "phone_key": "2132"
+    }
+  },
+  {
+    "request_slots": {},
+    "diaact": "inform",
+    "inform_slots": {
+      "is_staff": "False",
+      "is_reserve_visitor": "False",
+      "host_name": "杨球松"
+    }
+  }
+]

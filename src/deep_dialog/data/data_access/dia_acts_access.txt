@@ -1,0 +1,8 @@
+request
+inform
+closing
+manualservice
+welcomestaff
+welcomevisitor
+staffmeet
+thanks

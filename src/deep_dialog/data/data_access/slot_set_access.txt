@@ -1,0 +1,6 @@
+is_staff
+self_name
+host_name
+digits_key
+phone_key
+is_reserve_visitor
